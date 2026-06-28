@@ -45,11 +45,13 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" alt="GitHub" />
   <img width="8" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" height="40" title="Claude AI" alt="Claude" />
+  <img src="https://raw.githubusercontent.com/Lilpaolo67/paolo-portfolio/main/public/icons/codex.png" height="40" title="Codex" alt="Codex" />
   <img width="8" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" height="40" title="Antigravity AI" alt="Antigravity" />
+  <img src="https://raw.githubusercontent.com/Lilpaolo67/paolo-portfolio/main/public/icons/claude.png" height="40" title="Claude AI" alt="Claude" />
   <img width="8" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cohere.svg" height="40" title="Higgsfield AI" alt="Higgsfield" />
+  <img src="https://raw.githubusercontent.com/Lilpaolo67/paolo-portfolio/main/public/icons/antigravity.png" height="40" title="Antigravity AI" alt="Antigravity" />
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/Lilpaolo67/paolo-portfolio/main/public/icons/higgsfield.png" height="40" title="Higgsfield AI" alt="Higgsfield" />
 </div>
 
 ---
@@ -58,5 +60,5 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[CODEX](#)** | Gamified developer onboarding & secrets manager | TypeScript, Next.js, NestJS, Supabase |
-| **[E-com Automation](#)** | Website built with integrated AI automation | React, TypeScript, Vite, Node.js |
+| **[CODEX](#)** | Developer onboarding and secrets manager tool | TypeScript, Next.js, NestJS, Supabase |
+| **[E-com Automation](https://lilpaolo67.github.io/paolo-portfolio/)** | Website built with integrated AI automation | React, TypeScript, Vite, Node.js |
